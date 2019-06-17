@@ -1,11 +1,14 @@
 import React from 'react';
 import CounterContainer from './CounterContainer';
 
+import { Route, Switch } from 'react-router-dom';
+
 const App = () => {
   return (
-    <div>
-      <CounterContainer />
-    </div>
+    <Switch>
+      <Route exact path="/" component={CounterContainer} />
+      <Route path="/aa" component={() => (<div>Hello world!</div>)} />
+    </Switch>
   );
 };
 

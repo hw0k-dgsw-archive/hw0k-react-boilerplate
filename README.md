@@ -16,6 +16,8 @@
 - [Redux DevTools Extension](http://extension.remotedev.io/)
 - [Logger for Redux](https://github.com/LogRocket/redux-logger)
 - [React Redux](https://react-redux.js.org/)
+- [React Router](https://reacttraining.com/react-router/)
+- [Connected React Router](https://github.com/supasate/connected-react-router)
 
 
 
@@ -24,4 +26,5 @@
 - CSS-in-JS from Linaria, CRACO
 - State Management from Redux
 - Absolute import with `~` prefix from CRACO
+- Routing from React Router, Connected React Router
 - etc...
