@@ -1,5 +1,7 @@
 # hw0k's React Boilerplate
 
+This project was bootstrapped from [hw0k's React Boilerplate](https://github.com/hw0k/hw0k-react-boilerplate).
+
 
 
 ### Ingredients
